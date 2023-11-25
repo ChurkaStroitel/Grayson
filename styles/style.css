@@ -181,6 +181,10 @@ ul {
     gap: 30px;
 }
 
+body{
+    background: red;
+}
+
 .commerce__box-item {
     max-width: 255px;
     width: 100%;
